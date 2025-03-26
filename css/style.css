@@ -1,0 +1,14 @@
+
+
+.container {
+
+    /* enables Flexbox, a powerful layout system used to align and 
+    distribute elements within a container, even if their size is 
+    dynamic or unknown. */
+    display: flex;
+    /* horizontal centering */
+    justify-content: center;
+    /* vertical centering */
+    align-items: center;
+
+}
